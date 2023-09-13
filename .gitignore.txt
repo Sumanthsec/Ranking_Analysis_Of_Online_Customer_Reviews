@@ -1,0 +1,6 @@
+
+# Ignore a directory and its contents
+/data/
+
+# Ignorefiles
+*.sqlite
